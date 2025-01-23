@@ -1,0 +1,24 @@
+# Python virtual environment
+chatbot-env/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# IDE settings
+.vscode/
+.idea/
+
+# API keys and credentials
+*.pem
+*.key
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
