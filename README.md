@@ -129,6 +129,17 @@ python app.py
 3. Configuration (already set in render.yaml):
    - Build Command: `pip install -r requirements.txt`
    - Start Command: `gunicorn wsgi:application`
+  
+
+
+##Screenshots
+
+
+![image](https://github.com/user-attachments/assets/36688914-e95b-46c4-8a6b-fbff3850424b)
+
+![image](https://github.com/user-attachments/assets/a5885aa0-c6b2-4c52-8f23-aaa867abbe24)
+
+
 
 ## Project Structure
 
